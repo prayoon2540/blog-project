@@ -3,7 +3,7 @@ blogging news
 
 # project stack 
  - [X] ML
- - [ ] js
+ - [X] js
  - [ ] Python 
  - [ ] fastapi
  - [ ] expess js
